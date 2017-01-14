@@ -1,0 +1,17 @@
+{
+  "name": "premiumexplanationtool",
+  "version": "1.0.0",
+  "description": "Premium Explanation Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GMcL",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "mocha": "^3.2.0",
+    "supertest": "^2.0.1"
+  }
+}
